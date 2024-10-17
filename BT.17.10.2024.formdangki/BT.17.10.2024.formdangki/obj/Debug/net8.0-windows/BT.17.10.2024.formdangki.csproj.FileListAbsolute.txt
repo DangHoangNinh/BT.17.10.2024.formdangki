@@ -1,0 +1,16 @@
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\bin\Debug\net8.0-windows\BT.17.10.2024.formdangki.exe
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\bin\Debug\net8.0-windows\BT.17.10.2024.formdangki.deps.json
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\bin\Debug\net8.0-windows\BT.17.10.2024.formdangki.runtimeconfig.json
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\bin\Debug\net8.0-windows\BT.17.10.2024.formdangki.dll
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\bin\Debug\net8.0-windows\BT.17.10.2024.formdangki.pdb
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT._17._10._2024.formdangki.Form1.resources
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.csproj.GenerateResource.cache
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.AssemblyInfoInputs.cache
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.AssemblyInfo.cs
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.csproj.CoreCompileInputs.cache
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.dll
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\refint\BT.17.10.2024.formdangki.dll
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.pdb
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\BT.17.10.2024.formdangki.genruntimeconfig.cache
+C:\Users\dangh\source\repos\BT.17.10.2024.formdangki\BT.17.10.2024.formdangki\obj\Debug\net8.0-windows\ref\BT.17.10.2024.formdangki.dll

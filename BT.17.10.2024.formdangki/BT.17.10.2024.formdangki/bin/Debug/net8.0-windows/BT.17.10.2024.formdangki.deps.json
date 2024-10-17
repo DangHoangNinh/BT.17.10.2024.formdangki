@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BT.17.10.2024.formdangki/1.0.0": {
+        "runtime": {
+          "BT.17.10.2024.formdangki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT.17.10.2024.formdangki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
